@@ -1,0 +1,17 @@
+body{
+    background: url(images/Pink_flower.jpg  ) ;
+    background-size: cover;
+
+}
+h1{
+    text-align: center;
+}
+input{
+    justify-content: center;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
